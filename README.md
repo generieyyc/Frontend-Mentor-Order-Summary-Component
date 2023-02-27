@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/generieyyc/Frontend-Mentor-Order-Summary-Component.git)
-- Live Site URL: [Add live site URL here](https://generieyyc.github.io/Frontend-Mentor-Order-Summary-Component/)
+- Solution URL: [Github Repo](https://github.com/generieyyc/Frontend-Mentor-Order-Summary-Component.git)
+- Live Site URL: [Github live site](https://generieyyc.github.io/Frontend-Mentor-Order-Summary-Component/)
 
 ## My process
 
