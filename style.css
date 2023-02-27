@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  background-image: url("/order-summary-component-main/images/pattern-background-desktop.svg");
+  background-image: url("pattern-background-desktop.svg");
   background-repeat: repeat-x;
   min-width: 100vh;
   min-height: 100vh;
